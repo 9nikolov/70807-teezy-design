@@ -1,6 +1,0 @@
-Headings + Buttons:
-GrotRough Regular
-
-Paragraphs:
-Century Gothic Regular
-Century Gothic Bold
